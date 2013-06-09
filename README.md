@@ -9,4 +9,10 @@ The Layout Unremove module allows you to, via Layout Update XML scripts, undo th
 
 <a href="http://alanstorm.com/magento_layout_unremove_in_local_xml">Original Blog Article</a>
 
-*We're currently splitting the Pulse Storm repository into individual extension repositories.  Please excuse out mess while this is sorted*
+###Build Instructions
+
+The `build_layout_unremove.bash` file is a bash script that will create a simple tar archive of the extension files. 
+
+    $ ./build_layout_unremove.bash
+    
+This script assumes the existence of a `var` folder.    
