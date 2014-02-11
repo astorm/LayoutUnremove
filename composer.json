@@ -1,0 +1,10 @@
+{
+   "name": "astorm/LayoutUnremove",
+   "license": ["MIT"],
+   "type": "magento-module",
+   "description": "A Magento extension that adds an <unremove/> tag to Magento's Layout XML.",
+   "homepage": "http://alanstorm.com/magento_layout_unremove_in_local_xml",
+   "require": {
+      "magento-hackathon/magento-composer-installer": "*"
+   }
+}
